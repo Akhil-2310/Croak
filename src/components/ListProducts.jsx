@@ -154,7 +154,7 @@ const ListProducts = () => {
       <div>
         <div className="navbar bg-base-100">
           <div className="flex-1">
-            <a className="btn btn-ghost text-xl">Social</a>
+            <a className="btn btn-ghost text-xl">Croak 🐸</a>
           </div>
           <div className="flex-none">
             <ul className="menu menu-horizontal px-1">
@@ -226,7 +226,7 @@ const ListProducts = () => {
                 Select Category
               </option>
               <option value="art">Art</option>
-              <option value="gaming">Gaming</option>
+              <option value="nft">NFT</option>
               <option value="meme">Meme</option>
             </select>
           </div>
